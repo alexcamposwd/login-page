@@ -341,11 +341,3 @@ input:-webkit-autofill {
         100% { top: 110; z-index: -1; opacity: 0; }
     }   
 }
-@media screen and (max-width: 500px) {
-    .container {
-        height: auto;
-    }
-    .form {
-        width: 90%;
-    }
-}
