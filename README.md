@@ -25,7 +25,7 @@ Fazer conexão do projeto ao MySQL ou ao MongoDB para armazenar os dados inserid
 Fazer o envio dos dados para email através do nodemailer.<br />
 Fazer autenticação utilizando NodeJS, Passport.JS e Sequelize.<br />
 
-https://login-cadastro-ac.netlify.app/?
+[Demo](https://login-cadastro-ac.netlify.app/?)
 
 ### License/Licença do Projeto
 [MIT License](./LICENSE) ©
